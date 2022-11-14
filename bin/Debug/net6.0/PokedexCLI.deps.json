@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PokedexCLI/1.0.0": {
+        "runtime": {
+          "PokedexCLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokedexCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

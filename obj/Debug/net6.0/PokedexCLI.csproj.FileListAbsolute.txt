@@ -1,0 +1,15 @@
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\bin\Debug\net6.0\PokedexCLI.exe
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\bin\Debug\net6.0\PokedexCLI.deps.json
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\bin\Debug\net6.0\PokedexCLI.runtimeconfig.json
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\bin\Debug\net6.0\PokedexCLI.dll
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\bin\Debug\net6.0\PokedexCLI.pdb
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.csproj.AssemblyReference.cache
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.AssemblyInfoInputs.cache
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.AssemblyInfo.cs
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.csproj.CoreCompileInputs.cache
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.dll
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\refint\PokedexCLI.dll
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.pdb
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\PokedexCLI.genruntimeconfig.cache
+C:\Users\Amrit\Desktop\GitHub_Repos\PokedexCLI\obj\Debug\net6.0\ref\PokedexCLI.dll
